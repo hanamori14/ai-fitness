@@ -1,2 +1,2 @@
 # ai-fitness
-https://special-waddle-r4qxrqp544q9hxxrg.github.dev/
+https://adorable-flan-4d0f2b.netlify.app/
