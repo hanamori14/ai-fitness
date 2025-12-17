@@ -1,5 +1,5 @@
 # ai-fitness
-https://adorable-flan-4d0f2b.netlify.app
+https://hanamori14.github.io/stripe-github-/
 
 商品の説明　：AIフィットネスアプリ - 月額プレミアムプラン（500円/月・税込）
 
